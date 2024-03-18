@@ -1,0 +1,1 @@
+![CI](https://github.com/JMarimo/store-class/actions/workflows/web.yml/badge.svg)
